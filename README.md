@@ -42,5 +42,5 @@ Your Zodiac sign is Cancer!
 - Show zodiac symbols (♈ ♉ ♊ …)
 - Add descriptions for each sign
 
-##👩‍💻 Author
+## 👩‍💻 Author
 Maryum
