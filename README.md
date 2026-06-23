@@ -20,8 +20,6 @@ It then checks the input against zodiac date ranges and prints the correct zodia
 2. Open a terminal in the project folder  
 3. Run the program using:
 
-```bash
-python zodiac_finder.py
 ## 🧭 Zodiac Finder
 ### Input:
 
