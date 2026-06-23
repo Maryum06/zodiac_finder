@@ -44,3 +44,4 @@ Your Zodiac sign is Cancer!
 
 ## 👩‍💻 Author
 Maryum
+python zodiac_finder.py
