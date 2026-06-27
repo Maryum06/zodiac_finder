@@ -1,5 +1,5 @@
 print("Zodiac Finder")
-month = input("Enter your birth month (January-December):   ")
+month = input("Enter your birth month (January-December):   ").capitalize()
 day = int(input("Enter your birth day (1-31):   "))
 
 if (month == "January" and 20<=day<=31) or (month == "February" and 1<=day<= 18):
